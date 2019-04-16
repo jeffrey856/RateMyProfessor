@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Summarize-My-Professor/precache-manifest.7d2911d02995b23d32ef4e14b39522d4.js"
+  "/Summarize-My-Professor/precache-manifest.d72488b9d7a4eb5c619018b3670720a9.js"
 );
 
 workbox.clientsClaim();
